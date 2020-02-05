@@ -1,5 +1,8 @@
 # vue-pwa-demo
 
+## Hosting URL
+[https://vue-pwa-demo-2daab.web.app/](https://vue-pwa-demo-2daab.web.app/)
+
 ## Project setup
 ```
 yarn install
@@ -23,6 +26,11 @@ yarn test:unit
 ### Lints and fixes files
 ```
 yarn lint
+```
+
+### Firebase deploy
+```
+yarn deploy
 ```
 
 ### Customize configuration
