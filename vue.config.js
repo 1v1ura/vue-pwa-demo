@@ -4,5 +4,12 @@ module.exports = {
   devServer: {
     port: 3000
   },
-  pwa: {}
+  pwa: {
+    workboxPluginMode: "GenerateSW",
+    workboxOptions: {
+      skipWaiting: true,
+      clientsClaim: true,
+      navigateFallback: "/index.html"
+    }
+  }
 };
