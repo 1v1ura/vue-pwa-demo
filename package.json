@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-dragdata": "^1.1.1",
     "core-js": "^3.4.4",
     "register-service-worker": "^1.6.2",
